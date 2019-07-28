@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: employee.service
+  cloud:
+    config:
+      name: employee.service
